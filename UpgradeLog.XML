@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lucky Draw">
+</Property><Property Name="解决方案文件" Value="C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw.sln">
+</Property><Property Name="用户选项文件" Value="C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw.suo">
+</Property><Property Name="Date" Value="2010年1月6日 星期三">
+</Property><Property Name="Time" Value="14:06">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lucky Draw.sln" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Lucky Draw.suo" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw.suo">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj" Description="项目文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\Lucky Draw.csproj">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\DataAccess.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_DataManage.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\LD_DataManage.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_DataManage.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\LD_DataManage.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Main.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\LD_Main.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Main.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\LD_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Setting.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\LD_Setting.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Setting.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\LD_Setting.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Program.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\Program.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\Settings.settings" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\logo.ico" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\logo.ico">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_DataManage.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\LD_DataManage.resx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Main.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\LD_Main.resx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Setting.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\LD_Setting.resx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\Resources.resx" Description="文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\Lucky Draw\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LD_Steup.vdproj" Source="LD_Steup\LD_Steup.vdproj" Description="项目文件已成功备份为 C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Backup\LD_Steup\LD_Steup.vdproj">
+</Event><Event ErrorLevel="0" Project="" Source="Lucky Draw.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Lucky Draw.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

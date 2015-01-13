@@ -1,0 +1,89 @@
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\bin\Debug\神仙抽奖系统.exe
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\bin\Debug\神仙抽奖系统.pdb
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Gy.resources
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Help.resources
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_DataManage.resources
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Main.resources
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Setting.resources
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\Lucky Draw.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\神仙抽奖系统.exe
+C:\Documents and Settings\Administrator\桌面\xiaos\Lucky Draw\Lucky Draw\obj\Debug\神仙抽奖系统.pdb
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\神仙抽奖系统.exe
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\神仙抽奖系统.pdb
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\bin\Debug\神仙抽奖系统.exe
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\bin\Debug\神仙抽奖系统.pdb
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\ResolveAssemblyReference.cache
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Gy.resources
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Help.resources
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_DataManage.resources
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Main.resources
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Setting.resources
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Properties.Resources.resources
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\Lucky Draw.csproj.GenerateResource.Cache
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\bin\Debug\神仙抽奖系统.exe.manifest
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\bin\Debug\神仙抽奖系统.application
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\神仙抽奖系统.exe.manifest
+E:\WorkPlaces\Lucky+Draw原版源码\Lucky Draw\Lucky Draw\obj\Debug\神仙抽奖系统.application
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Gy.resources
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Help.resources
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_DataManage.resources
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Main.resources
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Setting.resources
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Properties.Resources.resources
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\Lucky Draw.csproj.GenerateResource.Cache
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\bin\Debug\抽奖系统.exe.manifest
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\bin\Debug\抽奖系统.application
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\bin\Debug\抽奖系统.exe
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\bin\Debug\抽奖系统.pdb
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\抽奖系统.exe.manifest
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\抽奖系统.application
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\抽奖系统.exe
+C:\Users\llq160.LLQDOMAIN\Desktop\Lucky Draw\Lucky Draw\obj\Debug\抽奖系统.pdb
+E:\workg\bin\抽奖系统.exe.manifest
+E:\workg\bin\抽奖系统.application
+E:\workg\bin\抽奖系统.exe
+E:\workg\bin\抽奖系统.pdb
+E:\电子书\抽奖系统.exe.manifest
+E:\电子书\抽奖系统.application
+E:\电子书\抽奖系统.exe
+E:\电子书\抽奖系统.pdb
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\抽奖系统.exe
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\抽奖系统.pdb
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Gy.resources
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Help.resources
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_DataManage.resources
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Main.resources
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Setting.resources
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Properties.Resources.resources
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\Lucky Draw.csproj.GenerateResource.Cache
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\抽奖系统.exe.manifest
+D:\C and C++ coding\Lucky Draw\Lucky Draw\obj\Debug\抽奖系统.application
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\抽奖系统.exe
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\抽奖系统.pdb
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.Gy.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.Help.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.LD_DataManage.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.LD_Main.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.LD_Setting.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.Properties.Resources.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky Draw.csproj.GenerateResource.Cache
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\抽奖系统.exe.manifest
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software\Lucky Draw\obj\Debug\抽奖系统.application
+E:\电子书\抽奖系统\抽奖系统.exe.manifest
+E:\电子书\抽奖系统\抽奖系统.application
+E:\电子书\抽奖系统\抽奖系统.exe
+E:\电子书\抽奖系统\抽奖系统.pdb
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.Gy.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.Help.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.LD_DataManage.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.LD_Main.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.LD_Setting.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky_Draw.Properties.Resources.resources
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\Lucky Draw.csproj.GenerateResource.Cache
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\抽奖系统.exe.manifest
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\抽奖系统.application
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\抽奖系统.exe
+D:\C and C++ coding\choujiang_git\choujiang_zuixin_software_bakup\choujiang_zuixin_software\Lucky Draw\obj\Debug\抽奖系统.pdb

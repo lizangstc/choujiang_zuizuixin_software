@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Lucky Draw">
+</Property><Property Name="解决方案文件" Value="D:\C and C++ coding\Lucky Draw\Lucky Draw.sln">
+</Property><Property Name="用户选项文件" Value="D:\C and C++ coding\Lucky Draw\Lucky Draw.suo">
+</Property><Property Name="Date" Value="2015年1月12日">
+</Property><Property Name="Time" Value="21:49">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Lucky Draw.sln" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Lucky Draw.suo" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw.suo">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj" Description="项目文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Lucky Draw.csproj">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj.user" Description="项目用户文件成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Lucky Draw.csproj.user">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\DataAccess.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\DataAccess.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Gy.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Gy.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Gy.Designer.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Gy.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Help.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Help.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Help.Designer.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Help.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_DataManage.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\LD_DataManage.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_DataManage.Designer.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\LD_DataManage.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Main.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\LD_Main.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Main.Designer.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\LD_Main.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Setting.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\LD_Setting.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Setting.Designer.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\LD_Setting.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Program.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Program.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\Settings.settings" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\img\BJ003.jpg" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\img\BJ003.jpg">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw_TemporaryKey.pfx" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Lucky Draw_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\logo.ico" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\logo.ico">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Gy.resx" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Gy.resx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Help.resx" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Help.resx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_DataManage.resx" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\LD_DataManage.resx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Main.resx" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\LD_Main.resx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\LD_Setting.resx" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\LD_Setting.resx">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Properties\Resources.resx" Description="文件已成功备份为 D:\C and C++ coding\Lucky Draw\Backup1\Lucky Draw\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Lucky Draw.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="Lucky Draw.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Lucky Draw" Source="Lucky Draw\Lucky Draw.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>
